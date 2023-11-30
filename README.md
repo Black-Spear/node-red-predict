@@ -15,7 +15,7 @@ The Node-RED IoT Temperature Prediction Project is an innovative solution for pr
 - **Real-time Visualization:** The predicted temperatures are dynamically displayed in a chart on the Node-RED dashboard.
 - **User-friendly Interface:** Built with Node-RED, ensuring an intuitive and user-friendly experience for configuring and visualizing predictions.
 
-<img src="flow" alt="Node-RED flow" width="90%" >
+<img src="flow.png" alt="Node-RED flow" width="90%" >
 
 ## How to Use
 
