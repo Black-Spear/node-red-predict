@@ -1,0 +1,65 @@
+[
+    {
+        "id": "f539c39f92c30ab4",
+        "type": "ui_chart",
+        "z": "cbcd529f30a04108",
+        "name": "",
+        "group": "76c16227fa84d01f",
+        "order": 2,
+        "width": "0",
+        "height": "0",
+        "label": "Temperature",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "10",
+        "ymax": "60",
+        "removeOlder": "300",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "1",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#e66bc5",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1110,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "76c16227fa84d01f",
+        "type": "ui_group",
+        "name": "ISTIC Stats",
+        "tab": "37f213bb6857e690",
+        "order": 1,
+        "disp": true,
+        "width": "18",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "37f213bb6857e690",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
